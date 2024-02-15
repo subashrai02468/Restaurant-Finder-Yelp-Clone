@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. **Clone the repository**
+1. Clone the repository
 
 ```bash
 git clone https://github.com/subashrai02468/Restaurant-Finder-Yelp-Clone
