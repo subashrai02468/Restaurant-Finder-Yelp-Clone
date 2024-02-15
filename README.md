@@ -10,11 +10,10 @@ This project is a Yelp clone named "Restaurant Finder", built using the PERN sta
 
 ## Features
 
-- **Browse Restaurants**: Users can view a list of restaurants with basic details.
-- **Search Functionality**: Includes a search feature to find restaurants by name or location.
-- **Restaurant Details**: Click on a restaurant to see detailed information, including reviews and ratings.
-- **User Reviews**: Users can add reviews and ratings for restaurants.
-- **Admin Panel**: A simple admin panel for adding or updating restaurant information (Stretch goal).
+- Browse Restaurants: Users can view a list of restaurants with basic details.
+- Search Functionality: Includes a search feature to find restaurants by name or location.
+- Restaurant Details: Click on a restaurant to see detailed information, including reviews and ratings.
+- User Reviews: Users can add reviews and ratings for restaurants.
 
 ## Getting Started
 
@@ -31,8 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/restaurant-finder-yelp-clone.git
-cd restaurant-finder-yelp-clone
+git clone https://github.com/subashrai02468/Restaurant-Finder-Yelp-Clone
 ```
 
 2. **Set up the Database**
